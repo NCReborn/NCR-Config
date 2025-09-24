@@ -1,0 +1,636 @@
+{
+  "windows": {
+    "3D World Map Explorer": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        862,
+        153
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        378,
+        52
+      ],
+      "index": 1
+    },
+    "Window Manager": {
+      "visible": true,
+      "lastPos": [
+        0,
+        2
+      ],
+      "isCollapsed": false,
+      "locked": true,
+      "lastSize": [
+        405,
+        1432
+      ],
+      "index": 1
+    },
+    "Conflict Begone": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        1000,
+        0
+      ],
+      "isCollapsed": true,
+      "locked": true,
+      "lastSize": [
+        600,
+        32
+      ],
+      "index": 1
+    },
+    "AutoLoot": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        1609,
+        27
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        721,
+        52
+      ],
+      "index": 1
+    },
+    "Crosshair": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        1260,
+        700
+      ],
+      "isCollapsed": false,
+      "locked": false,
+      "lastSize": [
+        42,
+        42
+      ],
+      "index": 1
+    },
+    "Shift Preset Manager": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        2080,
+        360
+      ],
+      "isCollapsed": true,
+      "locked": true,
+      "lastSize": [
+        460,
+        32
+      ],
+      "index": 1
+    },
+    "Settings": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        512,
+        288
+      ],
+      "isCollapsed": false,
+      "locked": false,
+      "lastSize": [
+        1536,
+        864
+      ],
+      "index": 1
+    },
+    "Airdrops": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        875,
+        1
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        390,
+        52
+      ],
+      "index": 1
+    },
+    "###UltraPlus": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        1202,
+        360
+      ],
+      "isCollapsed": true,
+      "locked": true,
+      "lastSize": [
+        518,
+        29.119995117188
+      ],
+      "index": 1
+    },
+    "Console": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": {
+        "x": 594,
+        "y": 251
+      },
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        1536,
+        864
+      ],
+      "index": 1
+    },
+    "Render Plane Fix": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        616,
+        2
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        256,
+        1412
+      ],
+      "index": 1
+    },
+    "ENV Tuner": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        20,
+        360
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        640,
+        1080
+      ],
+      "index": 1
+    },
+    "##TOAST0": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        2236,
+        1334
+      ],
+      "isCollapsed": false,
+      "locked": false,
+      "lastSize": [
+        304,
+        86
+      ],
+      "index": 1
+    },
+    "UltraPlus_HUD": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        60,
+        60
+      ],
+      "isCollapsed": false,
+      "locked": false,
+      "lastSize": [
+        42,
+        32
+      ],
+      "index": 1
+    },
+    "Preset Manager": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        1170,
+        186
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        460,
+        32
+      ],
+      "index": 1
+    },
+    "Debug##Default": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        500,
+        500
+      ],
+      "isCollapsed": false,
+      "locked": false,
+      "lastSize": [
+        400,
+        400
+      ],
+      "index": 1
+    },
+    "ResetAllSettingsConfirm": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        1011,
+        632
+      ],
+      "isCollapsed": false,
+      "locked": false,
+      "lastSize": [
+        537,
+        176
+      ],
+      "index": 1
+    },
+    "Better Sleeves": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        812,
+        124
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        370,
+        1432
+      ],
+      "index": 1
+    },
+    "LUT Switcher": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": {
+        "x": 500,
+        "y": 260
+      },
+      "isCollapsed": false,
+      "locked": false,
+      "lastSize": [
+        640,
+        1180
+      ],
+      "index": 1
+    },
+    "Vehicle Clone Destroyer": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        1261,
+        0
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        780,
+        352
+      ],
+      "index": 1
+    },
+    "CET First Time Setup": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        1034,
+        644
+      ],
+      "isCollapsed": false,
+      "locked": false,
+      "lastSize": [
+        492,
+        151
+      ],
+      "index": 1
+    },
+    "Cyber Engine Tweaks": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        640,
+        72
+      ],
+      "isCollapsed": false,
+      "locked": false,
+      "lastSize": [
+        1280,
+        84
+      ],
+      "index": 1
+    },
+    "Hidden Gems Map": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        1842,
+        49
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        300,
+        250
+      ],
+      "index": 1
+    },
+    "Hotscenes Collection": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        29,
+        148
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        688,
+        120
+      ],
+      "index": 1
+    },
+    "󰫰󰫵󰫮󰫿 󰰍󰰄": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        1307,
+        165
+      ],
+      "isCollapsed": true,
+      "locked": true,
+      "lastSize": [
+        613,
+        52
+      ],
+      "index": 1
+    },
+    "Bindings": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": {
+        "x": 572,
+        "y": 218
+      },
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        1527,
+        979
+      ],
+      "index": 1
+    },
+    "ImmersiveFirstPerson": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        38,
+        257
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        572,
+        282
+      ],
+      "index": 1
+    },
+    "Quest Tracking Toggle": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        8,
+        220
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        426,
+        52
+      ],
+      "index": 1
+    },
+    "HUD Fixes Mod Window": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        648,
+        37
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        585,
+        232
+      ],
+      "index": 1
+    },
+    "Shift": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        1720,
+        360
+      ],
+      "isCollapsed": true,
+      "locked": true,
+      "lastSize": [
+        360,
+        32
+      ],
+      "index": 1
+    },
+    "Bobblehead Everywhere": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        404,
+        1
+      ],
+      "isCollapsed": false,
+      "locked": true,
+      "lastSize": [
+        596,
+        361
+      ],
+      "index": 1
+    },
+    "Mercedes AMG SL63 2021 Settings": {
+      "disabled": false,
+      "lastSize": [
+        320,
+        820
+      ],
+      "lastPos": {
+        "x": 200,
+        "y": 200
+      },
+      "isCollapsed": false,
+      "locked": false,
+      "index": 1,
+      "visible": true
+    },
+    "Game Log": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        512,
+        288
+      ],
+      "isCollapsed": false,
+      "locked": false,
+      "lastSize": [
+        1536,
+        864
+      ],
+      "index": 1
+    },
+    "Max Ammo Count": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        1599,
+        0
+      ],
+      "isCollapsed": true,
+      "locked": true,
+      "lastSize": [
+        540,
+        32
+      ],
+      "index": 1
+    },
+    "Weather And Time Tools": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        5,
+        5
+      ],
+      "isCollapsed": false,
+      "locked": false,
+      "lastSize": [
+        647,
+        57
+      ],
+      "index": 1
+    },
+    "BMW M4 CS Settings": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        2140,
+        0
+      ],
+      "isCollapsed": false,
+      "locked": true,
+      "lastSize": [
+        280,
+        360
+      ],
+      "index": 1
+    },
+    "ENV Preset Manager": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        660,
+        360
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        542,
+        440
+      ],
+      "index": 1
+    },
+    "Wardrobe Courier: EquipmentEx Addon": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        156,
+        118
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        539,
+        32
+      ],
+      "index": 1
+    },
+    "Favorite Name": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        921,
+        185
+      ],
+      "isCollapsed": false,
+      "locked": false,
+      "lastSize": [
+        350,
+        216
+      ],
+      "index": 1
+    },
+    "Appearance Menu Mod": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": [
+        644,
+        168
+      ],
+      "isCollapsed": true,
+      "locked": true,
+      "lastSize": [
+        650,
+        40
+      ],
+      "index": 1
+    },
+    "Say Something, Damn It!": {
+      "visible": false,
+      "disabled": false,
+      "lastPos": [
+        30,
+        177
+      ],
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        400,
+        52
+      ],
+      "index": 1
+    },
+    "Target Tools##Floating": {
+      "visible": true,
+      "disabled": false,
+      "lastPos": {
+        "x": 60,
+        "y": 60
+      },
+      "isCollapsed": true,
+      "locked": false,
+      "lastSize": [
+        702,
+        1190
+      ],
+      "index": 1
+    }
+  },
+  "settings": {
+    "localization": "en-us"
+  }
+}
